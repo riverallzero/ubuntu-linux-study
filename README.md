@@ -1,2 +1,4 @@
 # ubuntu-linux-study
-IT@CookBook 우분투 리눅스, 이종원
+
+## Part 01. 리눅스의 기본
+- [Chapter 01. 리눅스 입문과 설치하기](./C01-리눅스-입문과-설치하기.md)
